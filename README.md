@@ -35,8 +35,11 @@ This project visualizes a dynamic fractal tree using C and the [raylib](https://
 - `raylib/` — Raylib library and dependencies
 - `.vscode/` — VS Code configuration files
 
-## Screenshots
-![Fractal Tree Example](https://raw.githubusercontent.com/IshaNayal/Fractal-Tree-in-C/main/screenshot.png)
+## Vid
+
+https://github.com/user-attachments/assets/77f1516d-32fa-4b6e-a28c-4278cea6a22e
+
+
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
