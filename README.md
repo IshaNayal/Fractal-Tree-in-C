@@ -41,9 +41,8 @@ https://github.com/user-attachments/assets/77f1516d-32fa-4b6e-a28c-4278cea6a22e
 
 
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+
 
 ---
-Created by Isha Nayal
-# Fractal-Tree-in-C
+Created by Isha Nayal :)
+
